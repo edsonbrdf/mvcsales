@@ -18,15 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -36,7 +32,7 @@
               "RelativeDocumentMoniker": "SaleswebMVC\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\projetos\\SaleswebMVC\\SaleswebMVC\\Controllers\\HomeController.cs",
               "RelativeToolTip": "SaleswebMVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T02:13:50.819Z",
               "EditorCaption": ""
@@ -49,10 +45,13 @@
               "RelativeDocumentMoniker": "SaleswebMVC\\Views\\Home\\Privacy.cshtml",
               "ToolTip": "C:\\projetos\\SaleswebMVC\\SaleswebMVC\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "SaleswebMVC\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T02:13:35.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T02:13:35.747Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
