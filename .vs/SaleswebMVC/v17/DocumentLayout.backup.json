@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\projetos\\SaleswebMVC\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02A33437-6092-4BDD-AC9D-A0B52311C55D}|SaleswebMVC\\SaleswebMVC.csproj|c:\\projetos\\saleswebmvc\\saleswebmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A33437-6092-4BDD-AC9D-A0B52311C55D}|SaleswebMVC\\SaleswebMVC.csproj|solutionrelative:saleswebmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A33437-6092-4BDD-AC9D-A0B52311C55D}|SaleswebMVC\\SaleswebMVC.csproj|c:\\projetos\\saleswebmvc\\saleswebmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02A33437-6092-4BDD-AC9D-A0B52311C55D}|SaleswebMVC\\SaleswebMVC.csproj|solutionrelative:saleswebmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\projetos\\SaleswebMVC\\SaleswebMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SaleswebMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\projetos\\SaleswebMVC\\SaleswebMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SaleswebMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T02:13:50.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\projetos\\SaleswebMVC\\SaleswebMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SaleswebMVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\projetos\\SaleswebMVC\\SaleswebMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SaleswebMVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T02:13:35.747Z",
+              "EditorCaption": ""
             }
           ]
         }

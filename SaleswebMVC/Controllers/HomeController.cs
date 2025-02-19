@@ -13,13 +13,14 @@ namespace SaleswebMVC.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public IActionResult Index() //interface para todo resultado de uma ação
         {
-            return View();
+            return View(); //objeto do tipo VIEW RESULT
         }
 
         public IActionResult Privacy()
         {
+            ViewData["email"] = "test2@gmail.com";                
             return View();
         }
 
