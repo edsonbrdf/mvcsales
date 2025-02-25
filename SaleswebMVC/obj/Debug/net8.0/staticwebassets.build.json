@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zqAsfl6WXmBJlyuBCifQjOks/28jzdetn77R2s9bXvM=",
+  "Hash": "eQS19CF+vwPCO98ee+uxai/4krNYNVCnI/buveJLCj0=",
   "Source": "SaleswebMVC",
   "BasePath": "_content/SaleswebMVC",
   "Mode": "Default",
@@ -204,6 +204,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\projetos\\SaleswebMVC\\SaleswebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min-sandstone.css",
+      "SourceId": "SaleswebMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projetos\\SaleswebMVC\\SaleswebMVC\\wwwroot\\",
+      "BasePath": "_content/SaleswebMVC",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min-sandstone#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ehb65z9rz8",
+      "Integrity": "omCkumaS5gsw5sOLk1wGdgVpY/uGaBNYy3adtxTi9rs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min-sandstone.css"
     },
     {
       "Identity": "C:\\projetos\\SaleswebMVC\\SaleswebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
@@ -624,6 +645,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\projetos\\SaleswebMVC\\SaleswebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-sandstone.css",
+      "SourceId": "SaleswebMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projetos\\SaleswebMVC\\SaleswebMVC\\wwwroot\\",
+      "BasePath": "_content/SaleswebMVC",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-sandstone#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3r480j2wqp",
+      "Integrity": "DxZ0xX2t9UUcQpcZOoV97yrXX5R7rZyPeSYRTvc5WaY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-sandstone.css"
     },
     {
       "Identity": "C:\\projetos\\SaleswebMVC\\SaleswebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
@@ -1846,6 +1888,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min-sandstone.css",
+      "AssetFile": "C:\\projetos\\SaleswebMVC\\SaleswebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min-sandstone.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "234808"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"omCkumaS5gsw5sOLk1wGdgVpY/uGaBNYy3adtxTi9rs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 01:12:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-omCkumaS5gsw5sOLk1wGdgVpY/uGaBNYy3adtxTi9rs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min-sandstone.ehb65z9rz8.css",
+      "AssetFile": "C:\\projetos\\SaleswebMVC\\SaleswebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min-sandstone.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "234808"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"omCkumaS5gsw5sOLk1wGdgVpY/uGaBNYy3adtxTi9rs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 01:12:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ehb65z9rz8"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min-sandstone.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-omCkumaS5gsw5sOLk1wGdgVpY/uGaBNYy3adtxTi9rs="
         }
       ]
     },
@@ -3531,6 +3655,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-a5KlgysZ4fQXw4rzIvXDHErFDPeHRSLccP7kX6HuvSQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-sandstone.3r480j2wqp.css",
+      "AssetFile": "C:\\projetos\\SaleswebMVC\\SaleswebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-sandstone.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "283343"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DxZ0xX2t9UUcQpcZOoV97yrXX5R7rZyPeSYRTvc5WaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 01:08:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3r480j2wqp"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-sandstone.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DxZ0xX2t9UUcQpcZOoV97yrXX5R7rZyPeSYRTvc5WaY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-sandstone.css",
+      "AssetFile": "C:\\projetos\\SaleswebMVC\\SaleswebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-sandstone.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "283343"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DxZ0xX2t9UUcQpcZOoV97yrXX5R7rZyPeSYRTvc5WaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 01:08:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DxZ0xX2t9UUcQpcZOoV97yrXX5R7rZyPeSYRTvc5WaY="
         }
       ]
     },

@@ -85,6 +85,10 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
+      "Id": "C:\\projetos\\SaleswebMVC\\SaleswebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-sandstone.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-sandstone.css"
+    },
+    {
       "Id": "C:\\projetos\\SaleswebMVC\\SaleswebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
@@ -123,6 +127,10 @@
     {
       "Id": "C:\\projetos\\SaleswebMVC\\SaleswebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\projetos\\SaleswebMVC\\SaleswebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min-sandstone.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min-sandstone.css"
     },
     {
       "Id": "C:\\projetos\\SaleswebMVC\\SaleswebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",

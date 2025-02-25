@@ -1725,6 +1725,88 @@
       ]
     },
     {
+      "Route": "lib/bootstrap/dist/css/bootstrap-sandstone.3r480j2wqp.css",
+      "AssetFile": "lib/bootstrap/dist/css/bootstrap-sandstone.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "283343"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DxZ0xX2t9UUcQpcZOoV97yrXX5R7rZyPeSYRTvc5WaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 01:08:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3r480j2wqp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DxZ0xX2t9UUcQpcZOoV97yrXX5R7rZyPeSYRTvc5WaY="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-sandstone.css"
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-sandstone.css",
+      "AssetFile": "lib/bootstrap/dist/css/bootstrap-sandstone.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "283343"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DxZ0xX2t9UUcQpcZOoV97yrXX5R7rZyPeSYRTvc5WaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 01:08:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DxZ0xX2t9UUcQpcZOoV97yrXX5R7rZyPeSYRTvc5WaY="
+        }
+      ]
+    },
+    {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetFile": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "Selectors": [],
@@ -2496,6 +2578,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min-sandstone.css",
+      "AssetFile": "lib/bootstrap/dist/css/bootstrap.min-sandstone.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "234808"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"omCkumaS5gsw5sOLk1wGdgVpY/uGaBNYy3adtxTi9rs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 01:12:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-omCkumaS5gsw5sOLk1wGdgVpY/uGaBNYy3adtxTi9rs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min-sandstone.ehb65z9rz8.css",
+      "AssetFile": "lib/bootstrap/dist/css/bootstrap.min-sandstone.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "234808"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"omCkumaS5gsw5sOLk1wGdgVpY/uGaBNYy3adtxTi9rs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 01:12:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ehb65z9rz8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-omCkumaS5gsw5sOLk1wGdgVpY/uGaBNYy3adtxTi9rs="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min-sandstone.css"
         }
       ]
     },
